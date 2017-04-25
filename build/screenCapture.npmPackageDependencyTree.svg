@@ -17,8 +17,8 @@
 <tspan x="10" y="234">  │ │ └── supports-color@0.2.0 </tspan>
 <tspan x="10" y="250">  │ ├── commander@2.6.0 </tspan>
 <tspan x="10" y="266">  │ ├── core-js@0.5.4 </tspan>
-<tspan x="10" y="282">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="298">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="282">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="298">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="314">  │ ├─┬ detect-indent@3.0.0 </tspan>
 <tspan x="10" y="330">  │ │ ├── get-stdin@3.0.2 </tspan>
 <tspan x="10" y="346">  │ │ └─┬ repeating@1.1.3 </tspan>
@@ -49,7 +49,7 @@
 <tspan x="10" y="746">  │ │ │ │ ├── once@1.4.0 </tspan>
 <tspan x="10" y="762">  │ │ │ │ └── path-is-absolute@1.0.1 </tspan>
 <tspan x="10" y="778">  │ │ │ ├── graceful-fs@4.1.11 </tspan>
-<tspan x="10" y="794">  │ │ │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="794">  │ │ │ ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="810">  │ │ │ ├── q@1.5.0 </tspan>
 <tspan x="10" y="826">  │ │ │ └─┬ recast@0.11.23 </tspan>
 <tspan x="10" y="842">  │ │ │   ├── ast-types@0.9.6 </tspan>
