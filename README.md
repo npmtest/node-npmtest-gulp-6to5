@@ -1,6 +1,6 @@
 # npmtest-gulp-6to5
 
-#### test coverage for  [gulp-6to5 (v3.0.0)](https://github.com/6to5/gulp-6to5)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-6to5.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-6to5) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-6to5.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-6to5)
+#### basic test coverage for  [gulp-6to5 (v3.0.0)](https://github.com/6to5/gulp-6to5)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-6to5.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-6to5) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-6to5.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-6to5)
 
 #### Turn ES6 code into vanilla ES5 with no runtime required
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-6to5/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-6to5/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-6to5/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-6to5/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-6to5/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-6to5/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-6to5/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-6to5/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-6to5/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-6to5/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-6to5/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-6to5/build/coverage.html/index.html)
 
@@ -106,7 +106,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
